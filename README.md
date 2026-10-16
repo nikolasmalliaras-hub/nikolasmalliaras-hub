@@ -12,7 +12,7 @@ I build reproducible research in Python on public market data, and I test every 
 
 | Project | What it shows |
 |---|---|
-| [crypto-risk-lab](https://github.com/nikolasmalliaras-hub/crypto-risk-lab) | Volatility and correlation structure of 30 coins: estimators, GARCH forecasting, implied vs realized volatility, PCA, tail correlation. Finding: a 30-coin basket behaves like about 1.5 independent bets. |
+| [crypto-risk-lab](https://github.com/nikolasmalliaras-hub/crypto-risk-lab) | Volatility, correlation and tail risk structure of 30 coins: estimators, GARCH forecasting, implied vs realized volatility, PCA, tail correlation. Finding: a 30-coin basket behaves like about 1.5 independent bets. |
 | [crypto-pairs-research](https://github.com/nikolasmalliaras-hub/crypto-pairs-research) | Statistical validation of a market hypothesis (cointegration between coins) on 7 years of data, with placebo and out-of-sample tests. |
 
 ## Market knowledge
